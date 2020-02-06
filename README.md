@@ -6,4 +6,6 @@
 
 MC68000 assembly language <br/>
 [AxIDE](https://www.axman.com/content/axide) <br/>
-[CMM322 Board](https://www.axman.com/content/cmm332)
+[CMM322 Board](https://www.axman.com/content/cmm332) <br/>
+[EASy68k](http://www.easy68k.com/) <br/>
+[Asm68k](http://aminet.net/package/dev/asm/Asm68k)
