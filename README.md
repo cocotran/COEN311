@@ -19,7 +19,7 @@ mount u U:\COEN311\
 ```shell
 path=%path%;d:\ 
 ```
-# to assemble .asm file from DOSBOX window
+### to assemble .asm file from DOSBOX window
 ```shell
-as32 -l lab1.asm > lab1.lst
+as32 -l file.asm > file.lst
 ```
